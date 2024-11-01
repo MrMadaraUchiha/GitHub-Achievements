@@ -55,45 +55,5 @@ Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badg
 Public Sponsor | ![GitHub Sponsor Achievement Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/public-sponsor-default.png) | ✔️ | Patrocínio de trabalho de código aberto via [GitHub Sponsors](https://github.com/sponsors) é só doar para algum projeto de sua preferência,  o valor minimo é 5 dólar.
 Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/mars-2020-contributor-default.png) | ❌ | ***⭐ Conquista rara não tem como conseguir pegar mais*** <br/> Contribuição de código para repositórios usados na [Missão de Helicóptero Mars 2020](https://github.com/readme/nasa-ingenuity-helicopter)
 
-<br /> 
-
-<a id="Referência"></a>
-##  🌍 Referência
-> Todas as fontes
-    
-<br/>
-    
-  * [GitHub Profile Achievements trophy](https://github.com/Schweinepriester/github-profile-achievements)
-  * [Canal tecnologia em video ➜ COMO GANHAR ACHIEVEMENTS (CONQUISTAS) NO GITHUB
- ](https://www.youtube.com/watch?v=4fTwd-8ifjo)
- * [ Ankush Chauhan ➜ Unlock GitHub Profile Achievements | YOLO, GitHub Galaxy, Pair Extraordinaire, Quickdraw and more!
- ](https://www.youtube.com/watch?v=wBW-vjM7ccA)
- * [MiDeev ➜ КАК ПОЛУЧИТЬ НОВЫЕ ЗНАЧКИ НА GITHUB | ЧАСТЬ 1 | ТУТОРИАЛ ](https://www.youtube.com/watch?v=VLW3Yxgt80I)
-
-<br/>
-
-
-<a id="Creditos"></a>
-## 🏆 Créditos
-
-
-<br />
-
-<div > 
-
-| [<img src="https://user-images.githubusercontent.com/60453269/217899761-dc2d4e4b-3336-419d-9076-79304290aa0a.png" width=300><br><sub> Maycon Coutinho </sub>](https://www.linkedin.com/in/maycon-coutinho/) | ***Hello*** 😃  ***Se você chegou até aqui, acredito que gostou do meu projeto, nesse caso temos algo em comum, sendo assim que tal conversamos um pouco? Meu chama no linkedin*** 😁 | 
-|---|---|
-
-
-</div> 
-
-<br/>
-
-
-  ### ⠀⠀⠀⠀[⭐ Linkedin](https://www.linkedin.com/in/maycon-coutinho/)⠀⠀⠀⠀[🧙 GitHub ](https://github.com/MayconCoutinho)
-
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 
